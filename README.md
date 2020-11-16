@@ -1,1 +1,2 @@
 # HTTP-BigIP-Cookie-NG
+Decodes any unencrypted F5 BIG-IP cookies in the HTTP response. In contrast to the nmap nse script `http-bigip-cookie` (https://nmap.org/nsedoc/scripts/http-bigip-cookie.html), this extension does not only support the default ipv4 pool member but rather ipv4 pool memebers in non-defaul route domains as well. See here for more info: https://support.f5.com/csp/article/K6917
